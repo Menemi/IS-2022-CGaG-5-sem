@@ -1,0 +1,2 @@
+class IncorrectGammaError(BaseException):
+    pass

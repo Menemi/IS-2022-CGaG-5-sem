@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/.idea
+# Datasource local storage ignored files
+/../../../../../../../:\Users\komra\PycharmProjects\cg22-project-Kikoriki\cg22-project-Kikoriki\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/lab1/.pytest_cache
+/lab1/managers/.pytest_cache
+*.pyc
